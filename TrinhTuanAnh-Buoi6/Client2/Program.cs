@@ -6,15 +6,15 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Client
+namespace Client2
 {
     class Program
     {
-       public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Socket sock = new Socket(AddressFamily.InterNetwork,
 SocketType.Stream, ProtocolType.Tcp);
-            IPEndPoint iep = new IPEndPoint(IPAddress.Parse("127.0.0.2"), 9050);
+            IPEndPoint iep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 9050);
             byte[] data = new byte[1024];
             string stringData;
             int recv;
@@ -39,3 +39,4 @@ SocketType.Stream, ProtocolType.Tcp);
         }
     }
 }
+

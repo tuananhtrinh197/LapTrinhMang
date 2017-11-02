@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiServer-Client", "KetNoiServer-Client\KetNoiServer-Client.csproj", "{7427736C-8B5A-4D9E-9D22-0F7E0379710D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{56631E9E-5266-4C99-ADF8-3EA90B0F39AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client2", "Client2\Client2.csproj", "{B417BBC3-4F79-4E62-9AD5-687E987B345F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7427736C-8B5A-4D9E-9D22-0F7E0379710D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7427736C-8B5A-4D9E-9D22-0F7E0379710D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7427736C-8B5A-4D9E-9D22-0F7E0379710D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56631E9E-5266-4C99-ADF8-3EA90B0F39AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56631E9E-5266-4C99-ADF8-3EA90B0F39AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56631E9E-5266-4C99-ADF8-3EA90B0F39AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56631E9E-5266-4C99-ADF8-3EA90B0F39AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B417BBC3-4F79-4E62-9AD5-687E987B345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B417BBC3-4F79-4E62-9AD5-687E987B345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B417BBC3-4F79-4E62-9AD5-687E987B345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B417BBC3-4F79-4E62-9AD5-687E987B345F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
