@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai3_phangiaiDNS
+namespace KetNoiServer_Client
 {
     class Program
     {
         static void Main(string[] args)
         {
-
         }
     }
 }

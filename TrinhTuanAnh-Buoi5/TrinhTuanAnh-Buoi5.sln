@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1", "Bai1\Bai1.csproj", "{7DA4D201-388C-4CD2-B9E2-829ACF02B45C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai3-phangiaiDNS", "Bai3-phangiaiDNS\Bai3-phangiaiDNS.csproj", "{E21D0A63-99BD-45BB-B79D-286D306F7FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7DA4D201-388C-4CD2-B9E2-829ACF02B45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DA4D201-388C-4CD2-B9E2-829ACF02B45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DA4D201-388C-4CD2-B9E2-829ACF02B45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21D0A63-99BD-45BB-B79D-286D306F7FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21D0A63-99BD-45BB-B79D-286D306F7FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21D0A63-99BD-45BB-B79D-286D306F7FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21D0A63-99BD-45BB-B79D-286D306F7FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
